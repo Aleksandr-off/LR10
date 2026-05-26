@@ -2,9 +2,10 @@
 using namespace std;
 
 int main() {
-    int a1;
+    int a;
+	int b; //добавил переменную B
     cout << "Vvedite chislo: ";
-    cin >> a;
+    cin >> a; 
     
     // Проверка значения переменной a и вывод соответствующего сообщения
     // Условная конструкция if-else if-else последовательно проверяет:
