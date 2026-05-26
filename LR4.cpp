@@ -3,8 +3,9 @@ using namespace std;
 
 int main() {
     int a;
+	int b; //добавил переменную B
     cout << "Vvedite chislo: ";
-    cin >> a;
+    cin >> a; 
     
     if (a > 0) {
         cout << "Chislo polozhitelnoe" << endl;
