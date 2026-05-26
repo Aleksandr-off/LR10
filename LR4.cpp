@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int a;
+    int a1;
     cout << "Vvedite chislo: ";
     cin >> a;
     
